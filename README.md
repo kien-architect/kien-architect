@@ -1,24 +1,125 @@
-# 💫 About Me:
-<!-- =========================== --><br><!--        HEADER SECTION        --><br><!-- =========================== --><br><br><h1 align="center">🌩️ Kien Nguyen — Future AWS Solutions Architect</h1><br><p align="center"><br>  Passionate about Cloud Architecture, Distributed Systems & High-Performance Networking.<br></p><br><br><!-- =========================== --><br><!--         BADGE LINE          --><br><!-- =========================== --><br><br><p align="center"><br>  <img src="https://img.shields.io/badge/AWS-Cloud%20Architect-orange?style=for-the-badge&logo=amazonaws"/><br>  <img src="https://img.shields.io/badge/Backend-.NET%20%7C%20C%23-blueviolet?style=for-the-badge&logo=dotnet"/><br>  <img src="https://img.shields.io/badge/Networking-Sockets-1E90FF?style=for-the-badge&logo=cisco"/><br>  <img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge&logo=terraform"/><br>  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker"/><br></p><br><br>---<br><br>## 🌟 small introduction  <br># **About Me :**<br><br>🔭 **I’m currently working on**  <br>• Architecting scalable, cloud-native systems using AWS (Lambda, API Gateway, DynamoDB, EC2, S3, CloudFront)  <br>• Developing real-time multiplayer & low-latency networking frameworks  <br>• Exploring distributed systems, microservices, and modern backend patterns<br><br>👯 **I’m looking to collaborate on**  <br>• Cloud-native applications that need performance, resilience, and smart design  <br>• Student/startup projects where architecture and backend engineering matter<br><br>🤝 **I’m looking for help with**  <br>• Multi-region AWS architecture, HA/DR design, cost optimization  <br>• Production-grade CI/CD, Terraform pipelines, container orchestration<br><br>🌱 **I’m currently learning**  <br>• AWS SA Professional mindset: Well-Architected, fault tolerance, serverless optimization  <br>• Terraform modules, CloudFront caching, load balancing strategies  <br>• System Design for large-scale distributed applications<br><br>💬 **Ask me about**  <br>• AWS Cloud fundamentals & architecture  <br>• Networking (TCP/UDP, socket programming, real-time systems)  <br>• API design, backend structure, performance optimization<br><br>⚡ **Fun fact**  <br>• I enjoy transforming simple ideas into fully scaled cloud architectures — from zero → production-ready infrastructure.<br><br>---<br><br>## 🛠️ **Tech Stack**<br><br>**Cloud & DevOps**  <br>AWS • Terraform • Docker • Linux • CloudFront • IAM • Lambda • DynamoDB • API Gateway  <br><br>**Backend & Networking**  <br>C# • .NET • Node.js • REST APIs • TCP/UDP • Sockets • Multithreading  <br><br>**Tools**  <br>Git • GitHub Actions • Postman • VS Code • Fiddler • Wireshark<br><br>---<br><br><br><br><br><br><br>
+# 🌩️ Kien Nguyen (Trung) — Aspiring AWS Solutions Architect
 
+<p align="center">
+  Passionate about Cloud Architecture, Distributed Systems, and Scalable Backend Engineering.
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kiennguly24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kien-vpc-peering/) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kiennguly&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kiennguly&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiennguly&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kiennguly&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Certified-FF9900?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Target-AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Backend-.NET%20%7C%20C%23-blueviolet?style=for-the-badge&logo=dotnet"/>
+  <img src="https://img.shields.io/badge/Cloud-IaC%20%7C%20DevOps-844FBA?style=for-the-badge&logo=terraform"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kiennguly&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+Hello! I’m **Kien Nguyen (Trung)** — an IT student and aspiring **AWS Solutions Architect** with a strong focus on **cloud-native system design, scalability, and reliability**.
+
+I have successfully **passed the AWS Certified Cloud Practitioner** exam and am currently **actively preparing for the AWS Solutions Architect certification**, with the goal of mastering real-world cloud architectures rather than just passing exams.
+
+My learning philosophy is simple:  
+**design → build → break → optimize → repeat**.
+
+---
+
+## 🎯 Current Focus
+
+🔭 **What I’m working on**
+- Designing **scalable and fault-tolerant architectures** on AWS
+- Building cloud-based backend systems using:
+  - EC2, ALB, Auto Scaling
+  - Lambda, API Gateway, DynamoDB
+  - S3, CloudFront, IAM
+- Developing **real-time & low-latency systems** (networking-focused projects)
+
+🌱 **What I’m learning**
+- AWS **Well-Architected Framework**
+- High Availability & Disaster Recovery (HA/DR)
+- Cost optimization strategies
+- CloudFront caching & load balancing patterns
+- Infrastructure as Code using **Terraform**
+- CI/CD pipelines using native AWS services
+
+🚀 **Next milestone**
+- AWS Certified **Solutions Architect**
+- Production-grade multi-tier architectures
+- Portfolio-ready cloud projects
+
+---
+
+## 🤝 Collaboration & Interests
+
+👯 **Open to collaborate on**
+- Cloud-native applications
+- Student or early-stage startup projects
+- Systems that require **scalability, performance, and clean architecture**
+
+🤝 **Looking for guidance on**
+- Multi-region AWS architectures
+- Advanced HA/DR designs
+- Real-world cost optimization techniques
+- Production CI/CD and Terraform workflows
+
+💬 **Ask me about**
+- AWS fundamentals & cloud architecture concepts
+- Backend engineering with C#/.NET
+- Networking basics (TCP/UDP, sockets, concurrency)
+- System design thinking for distributed systems
+
+⚡ **Fun fact**
+- I enjoy transforming simple ideas into **production-ready cloud architectures** — from zero to scalable systems.
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+- **AWS** (EC2, S3, IAM, VPC, CloudFront, Lambda, DynamoDB, API Gateway)
+- Terraform (Infrastructure as Code)
+- Docker
+- Linux
+
+### 🧠 Backend & Networking
+- C#, .NET
+- Node.js
+- REST APIs
+- TCP / UDP
+- Socket Programming
+- Multithreading & Concurrency
+
+### 🔧 Tools
+- Git & GitHub
+- GitHub Actions
+- VS Code
+- Postman
+- Wireshark
+- Fiddler
+
+---
+
+## 🌐 Socials
+
+- **Facebook**: https://www.facebook.com/kiennguly24  
+- **LinkedIn**: https://www.linkedin.com/in/kien-vpc-peering/
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiennguly&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kiennguly&theme=merko&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiennguly&theme=merko&hide_border=false&layout=compact)
+
+---
+## ✍️ Philosophy
+
+> “Cloud architecture is not about services — it’s about **trade-offs, resilience, and decisions under constraints**.”
+
+---
+
+⭐ If you find my projects or learning journey interesting, feel free to connect or follow along.  
+I’m always open to learning, building, and improving.
