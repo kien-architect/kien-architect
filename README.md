@@ -21,8 +21,17 @@ I have successfully **passed the AWS Certified Cloud Practitioner** exam and am 
 
 My learning philosophy is simple:  
 **design → build → break → optimize → repeat**.
+## 🏅 AWS Certifications
 
----
+<p align="center">
+  <a href="https://www.credly.com/badges/fb64362a-24b4-4006-bc6d-d7fd1428a9e1">
+    <img src="./aws-certified-cloud-practitioner.png" width="160"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/d38c4a62-2af2-4593-9e90-5b0bd42517e2">
+    <img src="./aws-certified-solutions-architect-associate.png" width="160"/>
+  </a>
+</p>
 
 ## 🎯 Current Focus
 
