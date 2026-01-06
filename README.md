@@ -15,12 +15,12 @@
 
 ## 👋 About Me
 
-Hello! I’m **Kien Nguyen (Trung)** — an IT student and aspiring **AWS Solutions Architect** with a strong focus on **cloud-native system design, scalability, and reliability**.
+Hello! I’m Kien Nguyen (Trung) — an IT student and AWS Certified Solutions Architect with a strong focus on cloud-native system design, scalability, and reliability engineering.
 
-I have successfully **passed the AWS Certified Cloud Practitioner** exam and am currently **actively preparing for the AWS Solutions Architect certification**, with the goal of mastering real-world cloud architectures rather than just passing exams.
+I hold both the AWS Certified Cloud Practitioner and AWS Certified Solutions Architect – Associate credentials, and I focus on designing, building, and operating real-world AWS architectures rather than just passing exams.
 
-My learning philosophy is simple:  
-**design → build → break → optimize → repeat**.
+My learning philosophy is simple:
+design → build → break → optimize → repeat
 ## 🏅 AWS Certifications
 
 <p align="center">
