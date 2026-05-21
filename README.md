@@ -1,7 +1,7 @@
 # Nguyen Trung Kien — DevOps & Cloud Engineer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=220&section=header&text=Nguyen%20Trung%20Kien&subtitle=DevOps%20•%20Cloud%20•%20DevSecOps&fontSize=35&fontColor=ffffff&fontAlignY=45&descAlignY=65&animation=fadeIn" alt="Header Banner" />
+  <img src="header.svg" alt="Header Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -24,11 +24,23 @@ I bridge the gap between development and operations with a security-first mindse
 
 ---
 
-### 🛡️ DevSecOps & Security Practices
-Security is not an afterthought; it is integrated into every stage of the lifecycle:
-- **Pipeline Security**: Container vulnerability scanning (Trivy), static application security testing (SAST), and dependency audits.
-- **Infrastructure Security**: Securing Terraform IaC with tools like tfsec/checkov, ensuring IAM least privilege, and implementing secure VPC peering and security groups.
-- **Secrets Management**: Implementing GitOps-safe secrets using HashiCorp Vault, AWS Secrets Manager, and Kubernetes External Secrets Operator (ESO) to avoid hardcoded credentials.
+### 🛡️ DevSecOps & Cloud Security Practices
+Security is not an afterthought; it is integrated into every layer of the cloud and application lifecycle:
+
+*   **🔒 Cloud Infrastructure Security (AWS)**
+    *   **Compute & Orchestration**: Deploying secure workloads on **AWS EC2**, **Amazon ECS (Fargate)**, and **Amazon EKS (Kubernetes)** with strict network segregation.
+    *   **IAM Least Privilege**: Enforcing granular IAM policies, mapping Kubernetes service accounts to AWS IAM Roles (IRSA), and minimizing root/admin usage.
+    *   **Network Isolation**: Architecting multi-VPC environments with secure **VPC Peering**, Private Subnets, NAT Gateways, Transit Gateways, and strict Security Groups.
+*   **🚀 Automated Secure Pipelines (CI/CD)**
+    *   **Orchestration**: Building declarative, repeatable pipelines using **GitHub Actions** and **Jenkins** to automate build, security, and deployment steps.
+    *   **Static Code Quality & Security**: Implementing **SonarQube** quality gates to catch code smells, bugs, and security vulnerabilities early in the commit phase.
+    *   **Vulnerability Scanning**: Scanning container base images and applications using **Trivy** for CVE detection before storage.
+    *   **Artifact Repository**: Storing and managing secure docker images and packages in **Sonatype Nexus** with registry scanning enabled.
+*   **🔑 Secrets Management & GitOps**
+    *   Implementing GitOps-safe secrets management using **HashiCorp Vault**, **AWS Secrets Manager**, and **Kubernetes External Secrets Operator (ESO)** to eliminate hardcoded credentials in repositories.
+*   **📊 Observability & Security Monitoring**
+    *   Monitoring infrastructure metrics, resource exhaustion, and security events using **Prometheus** and visualizing them via dynamic **Grafana** dashboards.
+
 
 ---
 
@@ -63,6 +75,9 @@ Security is not an afterthought; it is integrated into every stage of the lifecy
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Kien-devops/count.svg" alt="Visitor Counter" />
+  <img src="profile-views.svg" alt="Profile Views" />
 </p>
+

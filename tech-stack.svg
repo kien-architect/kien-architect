@@ -50,17 +50,41 @@
       /* Progress fill animations */
       .bar-fill {
         rx: 3px;
-        animation-duration: 2.2s;
+        animation-duration: 6s;
+        animation-iteration-count: infinite;
         animation-timing-function: cubic-bezier(0.1, 0.8, 0.2, 1);
-        animation-fill-mode: forwards;
       }
       
-      @keyframes fillCloud { 0% { width: 0px; } 100% { width: 135px; } }
-      @keyframes fillIaC { 0% { width: 0px; } 100% { width: 120px; } }
-      @keyframes fillContainers { 0% { width: 0px; } 100% { width: 128px; } }
-      @keyframes fillCICD { 0% { width: 0px; } 100% { width: 128px; } }
-      @keyframes fillSecurity { 0% { width: 0px; } 100% { width: 113px; } }
-      @keyframes fillObs { 0% { width: 0px; } 100% { width: 120px; } }
+      @keyframes fillCloud {
+        0%, 10% { width: 0px; }
+        40%, 80% { width: 135px; }
+        90%, 100% { width: 0px; }
+      }
+      @keyframes fillIaC {
+        0%, 10% { width: 0px; }
+        40%, 80% { width: 120px; }
+        90%, 100% { width: 0px; }
+      }
+      @keyframes fillContainers {
+        0%, 10% { width: 0px; }
+        40%, 80% { width: 128px; }
+        90%, 100% { width: 0px; }
+      }
+      @keyframes fillCICD {
+        0%, 10% { width: 0px; }
+        40%, 80% { width: 128px; }
+        90%, 100% { width: 0px; }
+      }
+      @keyframes fillSecurity {
+        0%, 10% { width: 0px; }
+        40%, 80% { width: 113px; }
+        90%, 100% { width: 0px; }
+      }
+      @keyframes fillObs {
+        0%, 10% { width: 0px; }
+        40%, 80% { width: 120px; }
+        90%, 100% { width: 0px; }
+      }
 
       .fill-cloud { animation-name: fillCloud; }
       .fill-iac { animation-name: fillIaC; }
@@ -71,15 +95,18 @@
 
       /* Odometer text scrolling animation */
       .counter-scroll {
-        animation: countUp 2.2s cubic-bezier(0.1, 0.8, 0.2, 1) forwards;
+        animation: countUp 6s cubic-bezier(0.1, 0.8, 0.2, 1) infinite;
       }
       
       @keyframes countUp {
-        0% {
+        0%, 10% {
           transform: translateY(0px);
         }
-        100% {
+        40%, 80% {
           transform: translateY(-135px); /* 9 steps of 15px */
+        }
+        90%, 100% {
+          transform: translateY(0px);
         }
       }
 

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="28" viewBox="0 0 210 28">
+  <defs>
+    <clipPath id="badge-clip">
+      <rect width="210" height="28" rx="4" />
+    </clipPath>
+    <clipPath id="digit-clip">
+      <rect x="130" y="0" width="80" height="28" />
+    </clipPath>
+    <style>
+      .label-text {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        font-size: 10px;
+        font-weight: 800;
+        letter-spacing: 1.5px;
+        fill: #ffffff;
+      }
+      .digit-text {
+        font-family: "Fira Code", monospace;
+        font-size: 12px;
+        font-weight: 700;
+        fill: #1e293b;
+      }
+      .scroller {
+        animation: roll 6s cubic-bezier(0.1, 0.8, 0.2, 1) infinite;
+      }
+      @keyframes roll {
+        0%, 10% { transform: translateY(0px); }
+        45%, 80% { transform: translateY(-162px); } /* 9 steps of 18px */
+        90%, 100% { transform: translateY(0px); }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#badge-clip)">
+    <!-- Left side -->
+    <rect x="0" y="0" width="130" height="28" fill="#232f3e" />
+    <text x="12" y="17.5" class="label-text">PROFILE VIEWS</text>
+
+    <!-- Right side -->
+    <rect x="130" y="0" width="80" height="28" fill="#ff9900" />
+    
+    <!-- Odometer for the number -->
+    <g clip-path="url(#digit-clip)">
+      <g class="scroller" transform="translate(138, 18)">
+        <text class="digit-text" y="0">00,000</text>
+        <text class="digit-text" y="18">01,152</text>
+        <text class="digit-text" y="36">02,408</text>
+        <text class="digit-text" y="54">04,193</text>
+        <text class="digit-text" y="72">05,730</text>
+        <text class="digit-text" y="90">07,185</text>
+        <text class="digit-text" y="108">08,429</text>
+        <text class="digit-text" y="126">09,617</text>
+        <text class="digit-text" y="144">10,248</text>
+        <text class="digit-text" y="162">10,482</text>
+      </g>
+    </g>
+  </g>
+</svg>
