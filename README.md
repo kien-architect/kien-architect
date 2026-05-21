@@ -1,90 +1,68 @@
-# Nguyen Trung Kien — DevOps Engineer
+# Nguyen Trung Kien — DevOps & Cloud Engineer
 
 <p align="center">
-  AWS Certified Solutions Architect – Associate | AWS Certified Cloud Practitioner
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=220&section=header&text=Nguyen%20Trung%20Kien&subtitle=DevOps%20•%20Cloud%20•%20DevSecOps&fontSize=35&fontColor=ffffff&fontAlignY=45&descAlignY=65&animation=fadeIn" alt="Header Banner" />
 </p>
 
 <p align="center">
-  Passionate about Cloud Architecture, CI/CD Automation, Container Orchestration, Monitoring, and Scalable Backend Engineering.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Certified-FF9900?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate%20Certified-232F3E?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins%20%7C%20GitHub%20Actions-D24939?style=for-the-badge&logo=githubactions"/>
-  <img src="https://img.shields.io/badge/Containers-Kubernetes%20%7C%20Docker-326CE5?style=for-the-badge&logo=kubernetes"/>
-  <img src="https://img.shields.io/badge/Monitoring-Prometheus%20%7C%20Grafana-E6522C?style=for-the-badge&logo=prometheus"/>
-  <img src="https://img.shields.io/badge/Backend-.NET%20%7C%20C%23-blueviolet?style=for-the-badge&logo=dotnet"/>
-  <img src="https://img.shields.io/badge/Cloud-IaC%20%7C%20DevOps-844FBA?style=for-the-badge&logo=terraform"/>
-</p>
-
-## 👋 About Me
-
-Hello! I’m Trung Kien — an IT student and AWS Certified Solutions Architect with a strong focus on cloud-native system design, scalability, reliability engineering, CI/CD automation, containerization, and monitoring.
-
-I hold both the AWS Certified Cloud Practitioner and AWS Certified Solutions Architect – Associate credentials, and I focus on designing, building, deploying, monitoring, and operating real-world AWS architectures rather than just passing exams.
-
-My areas of interest include Docker, Kubernetes, CI/CD pipelines with Jenkins and GitHub Actions, and observability with tools such as Prometheus and Grafana.
-
-My learning philosophy is simple:
-design → build → deploy → monitor → break → optimize → repeat
-## 🏅 AWS Certifications
-
-<p align="center">
-  <a href="https://www.credly.com/badges/fb64362a-24b4-4006-bc6d-d7fd1428a9e1">
-    <img src="./aws-certified-cloud-practitioner.png" width="160"/>
-  </a>
-
-  <a href="https://www.credly.com/badges/d38c4a62-2af2-4593-9e90-5b0bd42517e2">
-    <img src="./aws-certified-solutions-architect-associate.png" width="160"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=AWS+Certified+Solutions+Architect;Cloud+%26+DevOps+Platform+Engineer;Securing+Pipelines+%7C+DevSecOps;Infrastructure+as+Code+(IaC)+Advocate" alt="Typing SVG" />
   </a>
 </p>
 
-## 🎯 Current Focus
+---
 
-🔭 **What I’m working on**
-- Designing **scalable and fault-tolerant architectures** on AWS
-- Building cloud-based backend systems using:
-  - EC2, ALB, Auto Scaling
-  - Lambda, API Gateway, DynamoDB
-  - S3, CloudFront, IAM
-- Developing **real-time & low-latency systems** (networking-focused projects)
+### 👋 About Me
 
-🌱 **What I’m learning**
-- AWS **Well-Architected Framework**
-- High Availability & Disaster Recovery (HA/DR)
-- Cost optimization strategies
-- CloudFront caching & load balancing patterns
-- Infrastructure as Code using **Terraform**
-- CI/CD pipelines using native AWS services
+Hello! I’m **Trung Kien** — a Cloud & DevOps Engineer specializing in building secure, high-availability, and cost-efficient cloud architectures. My expertise lies in automating infrastructure provisioning, securing software supply chains (DevSecOps), and designing robust observability systems.
 
+I bridge the gap between development and operations with a security-first mindset. My philosophy:
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="philosophy-flow.svg" alt="DevSecOps Flow Pipeline" width="100%" />
+</p>
 
-### ☁️ Cloud & DevOps
-- **AWS** (EC2, S3, IAM, VPC, CloudFront, Lambda, DynamoDB, API Gateway)
-- Terraform (Infrastructure as Code)
-- Docker
-- Linux
+---
 
+### 🛡️ DevSecOps & Security Practices
+Security is not an afterthought; it is integrated into every stage of the lifecycle:
+- **Pipeline Security**: Container vulnerability scanning (Trivy), static application security testing (SAST), and dependency audits.
+- **Infrastructure Security**: Securing Terraform IaC with tools like tfsec/checkov, ensuring IAM least privilege, and implementing secure VPC peering and security groups.
+- **Secrets Management**: Implementing GitOps-safe secrets using HashiCorp Vault, AWS Secrets Manager, and Kubernetes External Secrets Operator (ESO) to avoid hardcoded credentials.
 
-### 🔧 Tools
-- Git & GitHub
-- GitHub Actions
-- VS Code
-- Postman
-- Wireshark
-- Fiddler
-- Prometheus
-- Grafana
-- Jenkins
-- Gitaction
+---
 
-## 🌐 Socials
+### 🏅 Professional Certifications
 
-- **Facebook**: https://www.facebook.com/kiennguly24  
-- **LinkedIn**: https://www.linkedin.com/in/kien-vpc-peering/
+<p align="center">
+  <a href="https://www.linkedin.com/in/kien-vpc-peering/" target="_blank">
+    <img src="aws-certs.svg" alt="AWS Certifications" width="480" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<p align="center">
+  <img src="tech-stack.svg" alt="Tech Stack Dashboard" width="100%" />
+</p>
 
 
-⭐ If you find my projects or learning journey interesting, feel free to connect or follow along.  
-I’m always open to learning, building, and improving.
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kien-vpc-peering/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/kiennguly24" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Kien-devops/count.svg" alt="Visitor Counter" />
+</p>
